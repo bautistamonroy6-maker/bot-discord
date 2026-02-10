@@ -70,7 +70,7 @@ client.on('messageCreate', async (message) => {
   if (!faltaCampo) return;
 
   await message.reply(
-    `${message.author} tu reporte no tiene la plantilla completa. ` +
+    `${message.author} Tu reporte no tiene la plantilla completa. ` +
     `Por favor usa esta plantilla:\n\n` +
     `Nick tuyo:\n\n` +
     `Nick del acusado:\n\n` +
