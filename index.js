@@ -49,7 +49,7 @@ client.on('messageReactionAdd', async (reaction, user) => {
   await canalDestino.send(
     `# 🎉 **¡Bienvenido/a al staff!** 🎉\n\n` +
     `**${autor} fue aprobado y ahora forma parte del staff.\n**` +
-    `**¡Pasate por #guia-staff para orientacion! 💪**`
+    `**¡Pasate por #1465432146649813092 para orientacion! 💪**`
   );
 });
 
